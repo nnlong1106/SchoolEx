@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861817989164",
+    "firebase_url": "https://shoolexdb-default-rtdb.firebaseio.com",
+    "project_id": "shoolexdb",
+    "storage_bucket": "shoolexdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861817989164:android:1f27f91bcb97f79b7e8989",
+        "android_client_info": {
+          "package_name": "vn.edu.kgc.schoolex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_76R6BysjFG1ZdUex0DiHsmyZxhNNMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
